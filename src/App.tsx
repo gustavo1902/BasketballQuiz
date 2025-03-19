@@ -1,7 +1,6 @@
 import { useState, useCallback, useEffect } from 'react';
 import { Trophy, RefreshCw } from 'lucide-react';
 
-// Expanded quiz questions data
 const allQuestions = [
   {
     question: "Who holds the NBA record for most points scored in a single game?",
